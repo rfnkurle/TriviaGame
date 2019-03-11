@@ -1,0 +1,28 @@
+body {
+    background-image: url("https://i.ytimg.com/vi/xf-Igt8gINA/maxresdefault.jpg");
+    background-color: #cccccc;
+    text-align: center;
+   }
+
+.title-color {
+    color: white
+}
+   
+
+.block {
+    width: 40%;
+    border: none;
+    margin: auto 0;
+    background-color: rgb(99, 103, 105);
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  .result {
+    width: 50%;
+    background-color: black;
+    text-align: center;
+    margin: auto;
+  }
