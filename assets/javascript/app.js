@@ -1,4 +1,4 @@
-
+//I have the javascript here in the javascript folder even though it is not tecnically connected to the html
 
 // var number = 45;
 // var intervalId;
